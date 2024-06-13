@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 🖐🏼
+
+I'm a programmer with a heart that beats for *Deep Learning* 🧠 and *Software Engineering* 👨🏻‍💻
+
+But wait, there's a twist! My ultimate goal is to harness their powerful technics to unlock the mysteries of **Biology**… 🧬🔬
 
 <!--
 **shahrokh-bahtooei/shahrokh-bahtooei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
